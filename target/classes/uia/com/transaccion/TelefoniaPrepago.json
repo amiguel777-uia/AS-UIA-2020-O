@@ -1,0 +1,17 @@
+{
+	"name": "Lista de Servicios Telefonia Prepago",
+	"prepagos": [
+		{
+			"name": "Axtel",
+			"id": 110
+		},
+		{
+			"name": "Unefon",
+			"id": 111
+		},
+		{
+			"name": "Iusacell",
+			"id": 112
+		}
+	]
+}

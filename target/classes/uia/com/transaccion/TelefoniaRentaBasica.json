@@ -1,0 +1,17 @@
+{
+	"name": "Lista de Telefonia Renta Basica",
+	"servicios": [
+		{
+			"name": "Telcel",
+			"id": 101
+		},
+		{
+			"name": "Movistar",
+			"id": 102
+		},
+		{
+			"name": "AT&T",
+			"id": 102
+		}
+	]
+}

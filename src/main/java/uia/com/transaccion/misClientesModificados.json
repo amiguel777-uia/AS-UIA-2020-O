@@ -1,0 +1,160 @@
+{
+	"mapClientes": {
+		"1": {
+			"name": "Alfonso",
+			"id": 1,
+			"fecha": null,
+			"cuentas": [
+				{
+					"name": "Debito",
+					"id": 0,
+					"items": [
+						{
+							"name": "Ahorro",
+							"id": 1,
+							"saldo": 700.0
+						},
+						{
+							"name": "Cheques",
+							"id": 2,
+							"saldo": 1000.0
+						},
+						{
+							"name": "Inversion",
+							"id": 3,
+							"saldo": 1000.0
+						}
+					],
+					"m_Cuenta": null,
+					"fechaactualizacion": null
+				},
+				{
+					"name": "Credito",
+					"id": 0,
+					"items": [
+						{
+							"name": "Tarjeta",
+							"id": 4,
+							"saldo": 1000.0
+						},
+						{
+							"name": "Hipoteca",
+							"id": 2,
+							"saldo": 1000.0
+						}
+					],
+					"m_Cuenta": null,
+					"fechaactualizacion": null
+				}
+			],
+			"miMapCuentas": {
+				"miMapCuentas": {
+					"3_Debito_Inversion": {
+						"name": "Inversion",
+						"id": 3,
+						"saldo": 1000.0
+					},
+					"2_Debito_Cheques": {
+						"name": "Cheques",
+						"id": 2,
+						"saldo": 1000.0
+					},
+					"4_Credito_Tarjeta": {
+						"name": "Tarjeta",
+						"id": 4,
+						"saldo": 1000.0
+					},
+					"2_Credito_Hipoteca": {
+						"name": "Hipoteca",
+						"id": 2,
+						"saldo": 1000.0
+					},
+					"1_Debito_Ahorro": {
+						"name": "Ahorro",
+						"id": 1,
+						"saldo": 700.0
+					}
+				}
+			},
+			"fechaactualizacion": null
+		},
+		"2": {
+			"name": "Alfredo",
+			"id": 2,
+			"fecha": null,
+			"cuentas": [
+				{
+					"name": "Debito",
+					"id": 0,
+					"items": [
+						{
+							"name": "Ahorro",
+							"id": 1,
+							"saldo": 1000.0
+						},
+						{
+							"name": "Cheques",
+							"id": 2,
+							"saldo": 1000.0
+						},
+						{
+							"name": "Inversion",
+							"id": 3,
+							"saldo": 1000.0
+						}
+					],
+					"m_Cuenta": null,
+					"fechaactualizacion": null
+				},
+				{
+					"name": "Credito",
+					"id": 0,
+					"items": [
+						{
+							"name": "Tarjeta",
+							"id": 4,
+							"saldo": 1000.0
+						},
+						{
+							"name": "Hipoteca",
+							"id": 2,
+							"saldo": 1000.0
+						}
+					],
+					"m_Cuenta": null,
+					"fechaactualizacion": null
+				}
+			],
+			"miMapCuentas": {
+				"miMapCuentas": {
+					"3_Debito_Inversion": {
+						"name": "Inversion",
+						"id": 3,
+						"saldo": 1000.0
+					},
+					"2_Debito_Cheques": {
+						"name": "Cheques",
+						"id": 2,
+						"saldo": 1000.0
+					},
+					"4_Credito_Tarjeta": {
+						"name": "Tarjeta",
+						"id": 4,
+						"saldo": 1000.0
+					},
+					"2_Credito_Hipoteca": {
+						"name": "Hipoteca",
+						"id": 2,
+						"saldo": 1000.0
+					},
+					"1_Debito_Ahorro": {
+						"name": "Ahorro",
+						"id": 1,
+						"saldo": 1000.0
+					}
+				}
+			},
+			"fechaactualizacion": null
+		}
+	}
+}

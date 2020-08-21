@@ -1,0 +1,17 @@
+{
+	"name": "Lista de Servicios Educacion Universitaria",
+	"universidades": [
+		{
+			"name": "Universidad 1",
+			"id": 30
+		},
+		{
+			"name": "Universidad 2",
+			"id": 31
+		},
+		{
+			"name": "Universidad 3",
+			"id": 32
+		}
+	]
+}

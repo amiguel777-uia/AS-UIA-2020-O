@@ -1,0 +1,94 @@
+{
+  "name": "Lista de Clientes",
+  "id": 0,
+  "items": [
+    {
+	  "type": "cliente",
+      "name": "Alfonso",
+      "id": 1,
+      "items": [		  
+			{
+		      "type": "cuenta",
+			  "name": "Debito",
+		      "id": 1000,
+			  "fecha": "2019-06-14",
+			  "items": [
+				{
+		      	  "type": "producto",
+				  "name": "AhorroX",
+				  "id": 1,
+				  "saldo": 1000.0
+				}
+			  ]
+			},
+			{
+		      "type": "cuenta",
+			  "name": "Credito",
+		      "id": 1001,
+			  "fecha": "2019-06-14",
+			  "items": [
+				{
+		      	  "type": "producto",
+				  "name": "TarjetaY",
+				  "id": 4,
+				  "saldo": 1000.0
+				}
+			  ]
+			}
+      ]
+    },
+    {
+	  "type": "cliente",
+      "name": "Alfredo",
+      "id": 2,
+      "items": [		  
+			{
+			  "type": "cuenta",
+			  "name": "Debito",
+		      "id": 1000,
+			  "fecha": "2019-06-14",
+			  "items": [
+				{
+		      	  "type": "producto",
+				  "name": "AhorroZ",
+				  "saldo": 1000.0,
+				  "id": 1
+				},
+				{
+		      	  "type": "producto",
+				  "name": "ChequesW",
+				  "saldo": 1000.0,
+				  "id": 2
+				},
+				{
+		      	  "type": "producto",
+				  "name": "InversionV",
+				  "saldo": 1000.0,
+				  "id": 3
+				}
+			  ]
+			},
+			{
+			  "type": "cuenta",
+			  "name": "Credito",
+		      "id": 1001,
+			  "fecha": "2019-06-14",
+			  "items": [
+				{
+		      	  "type": "producto",
+				  "name": "Tarjeta",
+				  "id": 4,
+				  "saldo": 1000.0
+				},
+				{
+		      	  "type": "producto",
+				  "name": "Hipoteca",
+				  "id": 2,
+				  "saldo": 1000.0
+				}
+			  ]
+			}
+      ]
+    }
+  ]
+}

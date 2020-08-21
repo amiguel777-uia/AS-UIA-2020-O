@@ -1,0 +1,29 @@
+{
+  "name": "Lista de Transacciones",
+  "fechaactualizacion": "2019-06-14",
+  "size":2,
+  "items": [
+    {
+      "type": "transaccion",
+      "name": "Alfonso",
+      "id": 1,
+      "idtransaccion": 1,      
+	  "tipo": "Debito",
+	  "fecharealizacion": "2019-06-14",
+	  "nombre": "Ahorro",
+	  "monto": 100.0,
+	  "receptor": 1
+    },
+    {
+      "type": "transaccion",
+      "name": "Alfredo",
+      "id": 2,
+      "idtransaccion": 2,      
+	  "tipo": "Credito",
+	  "fecharealizacion": "2019-06-14",
+	  "nombre": "Tarjeta",
+	  "monto": 100.0,
+	  "receptor": 2
+    }
+  ]
+}

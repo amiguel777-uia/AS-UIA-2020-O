@@ -1,0 +1,17 @@
+{
+	"name": "Lista de Servicios Educacion Basica",
+	"escuelas": [
+		{
+			"name": "Escuela 1",
+			"id": 1
+		},
+		{
+			"name": "Escuela 2",
+			"id": 2
+		},
+		{
+			"name": "Escuela 3",
+			"id": 3
+		}
+	]
+}
